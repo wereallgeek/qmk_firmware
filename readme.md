@@ -18,12 +18,8 @@ You can request changes by making a fork and opening a [pull request](https://gi
 
 ## Supported Keyboards
 
-* [Planck](/keyboards/planck/)
-* [Preonic](/keyboards/preonic/)
-* [ErgoDox EZ](/keyboards/ergodox_ez/)
-* [Clueboard](/keyboards/clueboard/)
-* [Cluepad](/keyboards/clueboard/17/)
-* [Atreus](/keyboards/atreus/)
+* [Model H](/keyboards/modelh/) and IBM Model-M replacement controller
+    * particularly [an added ISO variant](/keyboards/modelh/keymaps/iso/)
 
 The project also includes community support for [lots of other keyboards](/keyboards/).
 
