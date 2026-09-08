@@ -17,3 +17,4 @@ OPT_DEFS += -O2
 
 # If you need to override any info.json features, do it here
 # But it's better to keep everything in info.json for consistency
+EXTRAINCDIRS += lib/chibios/os/oslib/include
